@@ -1,0 +1,22 @@
+===============================
+  REPORTE DE SALUD — 2026-05-06_21-01-22
+===============================
+
+--- CPU ---
+Uso CPU: 4,0%
+
+--- MEMORIA ---
+Total: 11Gi | Usado: 4,0Gi | Libre: 2,4Gi
+
+--- DISCO ---
+Total: 439G | Usado: 120G | Libre: 296G | Uso: 29%
+
+--- PROCESOS TOP 5 (por CPU) ---
+/snap/firefox/8247/usr/lib/firefox/firefox CPU: 10.2%
+/snap/firefox/8247/usr/lib/firefox/firefox CPU: 6.7%
+/usr/bin/gnome-shell CPU: 3.6%
+/bin/bash            CPU: 3.5%
+/snap/firefox/8247/usr/lib/firefox/firefox CPU: 2.9%
+
+--- UPTIME ---
+ 21:01:22 up 11:10,  1 user,  load average: 0,57, 0,58, 0,70

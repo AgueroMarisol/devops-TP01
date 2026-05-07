@@ -1,0 +1,26 @@
+[2026-05-06 20:50:00] ============================================
+[2026-05-06 20:50:00] Iniciando script de automatización del sistema
+[2026-05-06 20:50:00] Directorio base: /home/xroot/Escritorio/Operaciones1
+[2026-05-06 20:50:00] ============================================
+[2026-05-06 20:50:00] === TAREA 1: Iniciando backup ===
+[2026-05-06 20:50:00] Backup completado en: /home/xroot/Escritorio/Operaciones1/backups/backup_2026-05-06_20-50-00 (1 archivos)
+[2026-05-06 20:50:00] === TAREA 2: Limpieza de archivos mayores a 7 días ===
+[2026-05-06 20:50:00] Limpieza completa. Archivos eliminados: 0
+[2026-05-06 20:50:00] === TAREA 3: Reporte de salud del sistema ===
+[2026-05-06 20:50:00] Reporte guardado en: /home/xroot/Escritorio/Operaciones1/logs/reporte_2026-05-06_20-50-00.txt
+[2026-05-06 20:50:00] ============================================
+[2026-05-06 20:50:00] Todas las tareas completadas exitosamente
+[2026-05-06 20:50:00] ============================================
+[2026-05-06 21:01:22] ============================================
+[2026-05-06 21:01:22] Iniciando script de automatización del sistema
+[2026-05-06 21:01:22] Directorio base: /home/xroot/Escritorio/Operaciones1
+[2026-05-06 21:01:22] ============================================
+[2026-05-06 21:01:22] === TAREA 1: Iniciando backup ===
+[2026-05-06 21:01:22] Backup completado en: /home/xroot/Escritorio/Operaciones1/backups/backup_2026-05-06_21-01-22 (0 archivos)
+[2026-05-06 21:01:22] === TAREA 2: Limpieza de archivos mayores a 7 días ===
+[2026-05-06 21:01:22] Limpieza completa. Archivos eliminados: 0
+[2026-05-06 21:01:22] === TAREA 3: Reporte de salud del sistema ===
+[2026-05-06 21:01:22] Reporte guardado en: /home/xroot/Escritorio/Operaciones1/logs/reporte_2026-05-06_21-01-22.txt
+[2026-05-06 21:01:22] ============================================
+[2026-05-06 21:01:22] Todas las tareas completadas exitosamente
+[2026-05-06 21:01:22] ============================================
